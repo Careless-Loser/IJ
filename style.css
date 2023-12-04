@@ -1,0 +1,17 @@
+head{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+#text{
+    font-size: x-large;
+    color: white;
+    font: 40px;
+    text-align: center;
+    margin-top: 150px;
+    text-transform: capitalize;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
